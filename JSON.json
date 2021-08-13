@@ -1,0 +1,12 @@
+{
+    "name": "Naseel",
+    "age": 13,
+    "male": true,
+    "frameworks": [
+        "express", "react", "next"
+    ],
+    "socialLinks": {
+        "linkedin": "http://linkedin.com/in/naseelniyas",
+        "youtube": "http://youtube.com/c/TechHarvestingWithNaseel"
+    }
+}
